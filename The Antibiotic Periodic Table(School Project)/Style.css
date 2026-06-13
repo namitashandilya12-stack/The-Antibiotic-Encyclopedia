@@ -1,0 +1,76 @@
+
+/*Class CSS*/
+
+.antibioticlong{
+    background-color: #3666af;
+    width: 1000px;
+    justify-content: center;
+    padding: 20px;
+    margin:30px ;
+    border:5px solid;
+    height:1200px;
+    box-shadow: 30px 20px 5px 2px #6e6e6e;
+}
+
+.imgborder{
+    border:5px solid;
+    width:900px;
+}
+
+.imgdimensions{
+    width:900px;
+    height:400px;
+}
+
+.Description{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(255, 255, 255);
+}
+
+.antibioticshort{
+    background-color: #3666af;
+    width: 1000px;
+    justify-content: center;
+    padding: 20px;
+    margin:30px ;
+    border:5px solid;
+    height:700px;
+    box-shadow: 30px 20px 5px 2px #6e6e6e;
+}
+
+.glasspic{
+    width:500px;
+    height:500px;
+}
+
+.glassborder{
+    border:5px solid;
+    width:500px;
+}
+
+.antibioticmid{
+    background-color: #3666af;
+    width: 1000px;
+    justify-content: center;
+    padding: 20px;
+    margin:30px ;
+    border:5px solid;
+    height:800px;
+    box-shadow: 30px 20px 5px 2px #6e6e6e;
+}
+/* Tag CSS */
+hr{
+    width:1000px;
+    color:#a1a1a1;
+}
+
+/*ID CSS*/
+#spimg{
+    width:900px;
+    height:450px;
+}
+
+#antibioticdes{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(0, 0, 0);
+}
